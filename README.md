@@ -28,4 +28,4 @@ The main concept of this project is customer segmentation and churn identificati
 -Dataset consisted of 2 month of player usage and 1 year of bank transactions.
 -Restrictions:
   unspecified customer registration date
-  1 customer was identified as inactive ( classification not possible)
+  1 customer was identified as inactive ( classification not possible using all available data)-> solution classification over future behaviour for n-      periods in time
