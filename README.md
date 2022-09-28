@@ -14,10 +14,13 @@ Requirements
 Contains a .txt file with the required libraries and their most efficient versions.
 
 Analysis
-Contains a .py file with the followed process.
+Contains a .py file with the followed process to segment custimers.
 
 Dashboard
 Contains a .py file with the created interative dashboard with the use of Streamlit.
+
+Preprocessing for churn prediction.ipynb. + Churn_prediction.ipynb
+Contains a ipynb and a collab file with the transofrmation of the data into consecutive period and then the classification.
 
 Presentation
 Contains the final presentation of the project.
